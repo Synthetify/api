@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vercel/node": "^1.12.1"
+    "@vercel/node": "^1.12.1",
+    "prettier-config-standard": "^4.0.0"
   }
 }

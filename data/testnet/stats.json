@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "6141a240a4eed21f4a8b0be7",
+    "volume": 0,
+    "mint": 0,
+    "burn": 394.17,
+    "userCount": 1,
+    "debt": 7350484.210000001,
+    "collateral": 39710188.720699996,
+    "liquidation": -510477416,
+    "timestamp": 1631691328,
+    "slot": 81190356,
+    "fee": 0,
+    "adminFee": 0
+  },
+  {
+    "_id": "6141a2912d9af822263c7057",
+    "volume": 0,
+    "mint": 591.98,
+    "burn": 788.61,
+    "userCount": 0,
+    "debt": 7348593.149999999,
+    "collateral": 39707875.0207,
+    "liquidation": -510477416,
+    "timestamp": 1631691409,
+    "slot": 81406356,
+    "fee": 0,
+    "adminFee": 0
+  }
+]

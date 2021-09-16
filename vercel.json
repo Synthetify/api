@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "routes": [
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "/api/$1"
+      "source": "/(.*)",
+      "destination": "/api/$1"
+    },
+    {
+      "source": "/stats/:net",
+      "destination": "/api/stats/:net"
     }
   ]
 }
