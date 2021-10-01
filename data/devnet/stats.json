@@ -1,6 +1,27 @@
 [
   {
     "_id" : "6143077f35fc70158b8bf2b6",
+    "volumeAll" : 0,
+    "volume" : 0,
+    "mintAll" : 0,
+    "mint" : 0,
+    "burnAll" : 0,
+    "burn" : 0,
+    "userCount" : 97,
+    "debtAll" : 0,
+    "debt" : 0,
+    "collateralAll" : 0,
+    "collateral" : 0,
+    "liquidationAll" : 0,
+    "liquidation" : 0,
+    "timestamp" : 1631782783,
+    "slot" : 81104692,
+    "feeAll" : 0,
+    "fee" : 0,
+    "adminFee" : 0
+  },
+  {
+    "_id" : "6143077f35fc70158b8bf2b6",
     "volumeAll" : 14001.21,
     "volume" : 14001.21,
     "mintAll" : 81370.78,
