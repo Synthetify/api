@@ -1,7 +1,7 @@
 import { VercelRequest, VercelResponse } from '@vercel/node'
 import DEVNET_DATA from '../../data/devnet/stats.json'
-import TESTNET_DATA from '../../data/devnet/stats.json'
-import MAINNET_DATA from '../../data/devnet/stats.json'
+import TESTNET_DATA from '../../data/testnet/stats.json'
+import MAINNET_DATA from '../../data/mainnet/stats.json'
 export default function (req: VercelRequest, res: VercelResponse) {
   //@ts-expect-error
   res.setHeader('Access-Control-Allow-Credentials', true)

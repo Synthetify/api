@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: install
-        run: npm install
       - name: Deploy to Production
         uses: amondnet/vercel-action@v20
         id: deploy-vercel-production
