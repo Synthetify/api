@@ -56,7 +56,7 @@
     "collateral" : 617749.863,
     "liquidationAll" : 2094.10271000117,
     "liquidation" : 2094.10271000117,
-    "timestamp" : 1632229806,
+    "timestamp" : 1632143406,
     "slot" : 82184692,
     "feeAll" : 135.28,
     "fee" : 93.28,
@@ -77,7 +77,7 @@
     "collateral" : 0,
     "liquidationAll" : 2094.10271000117,
     "liquidation" : 0,
-    "timestamp" : 1632299919,
+    "timestamp" : 1632213519,
     "slot" : 82400692,
     "feeAll" : 135.28,
     "fee" : 0,
@@ -104,7 +104,7 @@
     "fee" : 0,
     "adminFee" : 27.05
   },
-  {
+  { 
     "_id" : "614c5ecd5ed28d0769692f1b",
     "volumeAll" : 45093.67,
     "volume" : 0,
@@ -148,7 +148,7 @@
     "fee" : 1.33,
     "adminFee" : 27.32
   },
-  {
+  { 
     "_id" : "6151c978155540b8a12d4abd",
     "volumeAll" : 45538.02,
     "volume" : 444.35,
@@ -164,13 +164,13 @@
     "synthetic" : 8483920.9307532,
     "liquidationAll" : 2094.10271000117,
     "liquidation" : 0,
-    "timestamp" : 1632749944,
+    "timestamp" : 1632836344,
     "slot" : 83264692,
     "feeAll" : 136.61,
     "fee" : 0,
     "adminFee" : 27.32
   },
-  {
+  { 
     "_id" : "61530f7787f578a24fb19407",
     "volumeAll" : 52149.12,
     "volume" : 6611.1,
@@ -186,7 +186,7 @@
     "synthetic" : 8409818.8663321,
     "liquidationAll" : 2997.48848000076,
     "liquidation" : 903.38577,
-    "timestamp" : 1632833399,
+    "timestamp" : 1632919799,
     "slot" : 83480692,
     "feeAll" : 156.45,
     "fee" : 19.84,
@@ -213,5 +213,27 @@
     "feeAll" : 283.72,
     "fee" : 127.27,
     "adminFee" : 56.74
-  }
+  },
+  {
+    "_id" : "61571100d1875bbfdc3587a2",
+    "volumeAll" : 228180.72,
+    "volume" : 133608.57,
+    "mintAll" : 1046971.36,
+    "mint" : 124158.73,
+    "burnAll" : 595388,
+    "burn" : 19488.9600000001,
+    "userCount" : 306,
+    "debtAll" : 8790686.52,
+    "debt" : 360526.76,
+    "collateralAll" : 39927052.774,
+    "collateral" : 3733526.024,
+    "synthetic" : 8790686.5453736,
+    "liquidationAll" : 7530.20329000335,
+    "liquidation" : 3707.37818000093,
+    "timestamp" : 1633095936,
+    "slot" : 83912692,
+    "feeAll" : 684.54,
+    "fee" : 400.82,
+    "adminFee" : 136.9
+}
 ]
