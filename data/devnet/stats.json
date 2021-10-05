@@ -1,5 +1,26 @@
 [
   {
+    "_id" : "6143077f3rwc70158b8bf2b6",
+    "volumeAll" : 0,
+    "volume" : 0,
+    "mintAll" : 0,
+    "mint" : 0,
+    "burnAll" : 0,
+    "burn" : 0,
+    "userCount" : 0,
+    "debtAll" : 0,
+    "debt" : 0,
+    "collateralAll" : 0,
+    "collateral" : 0,
+    "liquidationAll" : 0,
+    "liquidation" : 0,
+    "timestamp" : 1631699328,
+    "slot" : 81104692,
+    "feeAll" : 0,
+    "fee" : 0,
+    "adminFee" : 0
+  },
+  {
     "_id": "6143077f35fc70158b8bf2b6",
     "volumeAll": 14001.21,
     "volume": 14001.21,
@@ -236,5 +257,27 @@
     "feeAll": 1006.52,
     "fee": 321.98,
     "adminFee": 201.3
+  },
+  {
+    "_id": "615c1871610ecd65435b7d0b",
+    "volumeAll": 376988.7899999999,
+    "volume": 148808.06999999992,
+    "mintAll": 2486020.2999999947,
+    "mint": 1439048.9399999948,
+    "burnAll": 2003087.4800000007,
+    "burn": 1407699.4800000007,
+    "userCount": 284,
+    "debtAll": 9042015.110000001,
+    "debt": 251328.5900000017,
+    "collateralAll": 42996687.5676,
+    "collateral": 3069634.7936000004,
+    "synthetic": 9042015.1237774,
+    "liquidationAll": 371433.1154200025,
+    "liquidation": 363902.91212999914,
+    "timestamp": 1633425518,
+    "slot": 84344692,
+    "feeAll": 1130.97,
+    "fee": 446.43000000000006,
+    "adminFee": 226.19
   }
 ]
