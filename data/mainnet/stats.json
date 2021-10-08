@@ -168,7 +168,7 @@
     "collateral": 5904568.615,
     "synthetic": 1530797.6069322003,
     "liquidationAll": 6646.7008000001315,
-    "liquidation": 4205.681960000133,
+    "liquidation": 0,
     "timestamp": 1633686291,
     "slot": 100816751,
     "feeAll": 233.66,
