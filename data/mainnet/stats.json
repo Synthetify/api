@@ -4957,5 +4957,28 @@
     "feeAll": 96051.77999999997,
     "fee": 432.66,
     "adminFee": 86.53
+  },
+  {
+    "_id": "627b9b9abda8d5c96693fe4b",
+    "volumeAll": 32037827.209999993,
+    "volume": 8505.31,
+    "mintAll": 78270112.55999994,
+    "mint": 9604.0500000000001,
+    "burnAll": 81697272.53999999,
+    "burn": 15227.67,
+    "userCount": 1955,
+    "debtAll": 5308854.48,
+    "debt": -20035.95999999903,
+    "debtPoolUSD": 5171406.029999999,
+    "collateralAll": 13695739.202380002,
+    "collateral": -491252.2321827989,
+    "synthetic": 5308854.550199801,
+    "liquidationAll": 0,
+    "liquidation": 0,
+    "timestamp": 1652267929,
+    "slot": 150712751,
+    "feeAll": 96053.29999999997,
+    "fee": 32.52,
+    "adminFee": 8.3
   }
 ]
