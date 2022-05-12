@@ -5119,5 +5119,27 @@
   "feeAll": 6173.490000000001,
   "fee": 0,
   "adminFee": 0
+},
+{
+  "_id": "627ced1ba12df2c98e11545d",
+  "volumeAll": 2057823.6300000001,
+  "volume": 0,
+  "mintAll": 6475328.26999999,
+  "mint": 0,
+  "burnAll": 4891667.120000001,
+  "burn": 0,
+  "userCount": 113,
+  "debtAll": 1633302.9399999997,
+  "debt": 0,
+  "collateralAll": 2446636.707,
+  "collateral": 0,
+  "synthetic": 1633302.9663303,
+  "liquidationAll": 0,
+  "liquidation": 0,
+  "timestamp": 1652354329,
+  "slot": 132944692,
+  "feeAll": 6173.490000000001,
+  "fee": 0,
+  "adminFee": 0
 }
 ]
