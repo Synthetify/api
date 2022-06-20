@@ -5888,5 +5888,30 @@
     "adminFee": 4.97,
     "stSolTVL": 230894.316,
     "lidoAPY": 32.290759857181
+  },
+  {
+    "_id": "62b0631ac96db8e013ef95f6",
+    "volumeAll": 33389386.33999999,
+    "volume": 29153.4,
+    "mintAll": 80320042.95999983,
+    "mint": 23752.43999999999999995,
+    "burnAll": 85328146.87999986,
+    "burn": 37552.57,
+    "userCount": 1669,
+    "debtAll": 3258215.6999999997,
+    "debt": -21386.49000000069,
+    "debtPoolUSD": 1369267.6,
+    "collateralAll": 6359670.681623501,
+    "collateral": -1944073.6370949997,
+    "synthetic": 3258215.7531388,
+    "liquidationAll": 0,
+    "liquidation": 0,
+    "timestamp": 1655726872,
+    "slot": 165616751,
+    "feeAll": 100045.3699999999,
+    "fee": 14.57,
+    "adminFee": 2.91,
+    "stSolTVL": 163187.30519999997,
+    "lidoAPY": 40.07410073606499
   }
 ]
